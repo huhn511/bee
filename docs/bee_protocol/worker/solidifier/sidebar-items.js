@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["heavy_solidification",""],["solidify",""]],"struct":[["MilestoneSolidifierWorker",""],["MilestoneSolidifierWorkerEvent",""]]});

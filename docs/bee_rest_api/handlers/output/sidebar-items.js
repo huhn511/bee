@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["output",""]],"struct":[["OutputResponse","Response of GET /api/v1/outputs/{output_id}"]]});

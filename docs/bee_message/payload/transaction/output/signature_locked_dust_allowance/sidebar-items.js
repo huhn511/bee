@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["SIGNATURE_LOCKED_DUST_ALLOWANCE_OUTPUT_AMOUNT",""],["SIGNATURE_LOCKED_DUST_ALLOWANCE_OUTPUT_KIND",""]],"struct":[["SignatureLockedDustAllowanceOutput",""]]});

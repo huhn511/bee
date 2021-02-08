@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["HEADER_LENGTH_SIZE",""],["HEADER_SIZE",""],["HEADER_TYPE_SIZE",""]],"struct":[["Header","A header for the type-length-value encoding."]]});

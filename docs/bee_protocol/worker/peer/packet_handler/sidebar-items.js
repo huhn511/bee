@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ReadState","The read state of the packet handler."]],"struct":[["EventHandler",""],["PacketHandler","A packet handler."]],"type":[["EventRecv",""],["ShutdownRecv",""]]});

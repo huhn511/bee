@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CONSTANT_SIZE",""],["MESSAGE_ID_SIZE",""]],"struct":[["MessageRequest","A packet to request a message."]]});

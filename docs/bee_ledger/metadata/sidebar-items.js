@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["WhiteFlagMetadata","White flag metadata of a milestone confirmation."]]});

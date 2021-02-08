@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["DEFAULT_NUM_WORKERS",""],["LN_3","https://oeis.org/A002391"]],"enum":[["Error",""]],"struct":[["Miner",""],["MinerBuilder",""]]});

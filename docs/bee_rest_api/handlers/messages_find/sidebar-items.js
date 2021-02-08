@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["messages_find",""]],"struct":[["MessagesForIndexResponse","Response of GET /api/v1/messages/{message_id}?index={INDEX}"]]});

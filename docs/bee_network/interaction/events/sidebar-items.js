@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Event","Describes the events produced by the networking layer."],["InternalEvent",""]],"fn":[["channel",""]],"type":[["EventSender",""],["InternalEventReceiver",""],["InternalEventSender",""]]});

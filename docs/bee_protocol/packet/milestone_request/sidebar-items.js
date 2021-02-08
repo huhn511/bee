@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CONSTANT_SIZE",""],["INDEX_SIZE",""]],"struct":[["MilestoneRequest","A packet to request a milestone."]]});

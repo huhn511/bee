@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["VARIABLE_MAX_SIZE",""],["VARIABLE_MIN_SIZE",""]],"struct":[["Message","A packet to send a message."]]});

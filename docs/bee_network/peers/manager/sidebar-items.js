@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["add_peer",""],["connect_peer",""],["dial_address",""],["disconnect_peer",""],["process_command",""],["process_internal_event",""],["remove_peer",""]],"struct":[["PeerManager",""],["PeerManagerConfig",""]]});

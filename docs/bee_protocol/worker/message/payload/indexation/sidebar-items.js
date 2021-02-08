@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["process",""]],"struct":[["IndexationPayloadWorker",""],["IndexationPayloadWorkerEvent",""]]});

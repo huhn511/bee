@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MsTangle","Milestone-based Tangle."],["StorageHooks",""]]});

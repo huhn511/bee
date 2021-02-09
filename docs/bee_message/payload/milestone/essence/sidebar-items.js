@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["MILESTONE_MERKLE_PROOF_LENGTH",""],["MILESTONE_PUBLIC_KEY_LENGTH",""]],"struct":[["MilestonePayloadEssence",""]]});

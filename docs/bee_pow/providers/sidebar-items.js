@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["constant",""],["miner",""]],"struct":[["Constant",""],["ConstantBuilder",""],["Miner",""],["MinerBuilder",""]],"trait":[["Provider",""],["ProviderBuilder",""]]});

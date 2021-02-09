@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["TransactionPayloadEssence",""],["TransactionPayloadEssenceBuilder",""]]});

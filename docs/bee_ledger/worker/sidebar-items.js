@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["confirm",""]],"struct":[["LedgerWorker",""],["LedgerWorkerEvent",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["CONNECTED_PEERS_SIZE",""],["CONSTANT_SIZE",""],["LATEST_MILESTONE_INDEX_SIZE",""],["LATEST_SOLID_MILESTONE_INDEX_SIZE",""],["PRUNED_INDEX_SIZE",""],["SYNCED_PEERS_SIZE",""]],"struct":[["Heartbeat","A packet that informs about the part of the tangle currently being fully stored by a node. This packet is sent when a node:"]]});

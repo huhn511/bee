@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["address",""],["balance",""],["bytes",""],["input",""],["integer",""],["message",""],["metadata",""],["milestone",""],["option",""],["output",""],["output_diff",""],["snapshot",""],["solid_entry_point",""],["string",""],["transaction",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["BEE_GIT_COMMIT",""],["BEE_VERSION",""]]});

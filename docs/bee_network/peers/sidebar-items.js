@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["PeerRelation","Describes the relation with a peer."]],"fn":[["channel",""]],"mod":[["banned",""],["errors",""],["list",""],["manager",""]],"type":[["MessageReceiver","A shorthand for an unbounded channel receiver."],["MessageSender","A shorthand for an unbounded channel sender."]]});

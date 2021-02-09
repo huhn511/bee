@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["rand_integer",""],["rand_integer_range",""]]});

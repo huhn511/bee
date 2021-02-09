@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["LEAF_HASH_PREFIX","Leaf domain separation prefix."],["NODE_HASH_PREFIX","Node domain separation prefix."]],"fn":[["largest_power_of_two","Computes the largest power of two inferior to `n`."]],"struct":[["MerkleHasher","A Merkle hasher based on a digest function."]]});

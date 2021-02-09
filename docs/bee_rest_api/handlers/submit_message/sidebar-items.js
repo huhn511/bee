@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["forward_to_message_submitter",""],["submit_message",""]],"struct":[["SubmitMessageResponse","Response of POST /api/v1/messages"]]});

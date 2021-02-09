@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Address",""]],"mod":[["ed25519",""]],"struct":[["Bech32Address","Bech32 encoded address struct"]]});

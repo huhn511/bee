@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["outputs_bech32",""]]});

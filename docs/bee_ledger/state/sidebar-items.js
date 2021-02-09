@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["IOTA_SUPPLY",""]],"fn":[["check_ledger_balance_state",""],["check_ledger_state",""],["check_ledger_unspent_state",""]]});

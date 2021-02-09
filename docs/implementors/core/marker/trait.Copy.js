@@ -1,8 +1,0 @@
-(function() {var implementors = {};
-implementors["bee_ledger"] = [{"text":"impl Copy for ConflictReason","synthetic":false,"types":[]}];
-implementors["bee_message"] = [{"text":"impl Copy for MessageId","synthetic":false,"types":[]},{"text":"impl Copy for LedgerIndex","synthetic":false,"types":[]},{"text":"impl Copy for MilestoneIndex","synthetic":false,"types":[]},{"text":"impl Copy for HashedIndex","synthetic":false,"types":[]},{"text":"impl Copy for Ed25519Address","synthetic":false,"types":[]},{"text":"impl Copy for Address","synthetic":false,"types":[]},{"text":"impl Copy for OutputId","synthetic":false,"types":[]},{"text":"impl Copy for TransactionId","synthetic":false,"types":[]},{"text":"impl Copy for SolidEntryPoint","synthetic":false,"types":[]}];
-implementors["bee_network"] = [{"text":"impl Copy for Origin","synthetic":false,"types":[]},{"text":"impl Copy for PeerRelation","synthetic":false,"types":[]}];
-implementors["bee_snapshot"] = [{"text":"impl Copy for Kind","synthetic":false,"types":[]}];
-implementors["bee_storage_rocksdb"] = [{"text":"impl Copy for StorageHealth","synthetic":false,"types":[]},{"text":"impl Copy for StorageVersion","synthetic":false,"types":[]},{"text":"impl Copy for System","synthetic":false,"types":[]}];
-implementors["bee_tangle"] = [{"text":"impl Copy for Flags","synthetic":false,"types":[]},{"text":"impl Copy for MessageMetadata","synthetic":false,"types":[]},{"text":"impl Copy for IndexId","synthetic":false,"types":[]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

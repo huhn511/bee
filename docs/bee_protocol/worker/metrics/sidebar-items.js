@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["METRICS_INTERVAL_SEC",""]],"struct":[["MetricsWorker",""]]});

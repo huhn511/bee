@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Output",""]],"mod":[["address",""],["output_id",""],["signature_locked_dust_allowance",""],["signature_locked_single",""],["storable",""],["treasury",""]]});

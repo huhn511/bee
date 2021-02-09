@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["balance_ed25519",""]],"struct":[["BalanceForAddressResponse","Response of GET /api/v1/addresses/{address}"]]});

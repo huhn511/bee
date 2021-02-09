@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Origin","Describes direction of an established connection."]],"fn":[["recv_message",""],["send_message",""],["spawn_gossip_in_task",""],["spawn_gossip_out_task",""],["upgrade_connection",""]],"mod":[["client",""],["errors",""],["server",""]]});

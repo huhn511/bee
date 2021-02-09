@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["TRANSACTION_ID_LENGTH",""]],"struct":[["TransactionId",""]]});

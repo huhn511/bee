@@ -1,3 +1,0 @@
-(function() {var implementors = {};
-implementors["bee_node"] = [{"text":"impl StructOptInternal for CliArgs","synthetic":false,"types":[]},{"text":"impl StructOptInternal for Ed25519Tool","synthetic":false,"types":[]},{"text":"impl StructOptInternal for P2pIdentityTool","synthetic":false,"types":[]},{"text":"impl StructOptInternal for RocksdbCommand","synthetic":false,"types":[]},{"text":"impl StructOptInternal for RocksdbTool","synthetic":false,"types":[]},{"text":"impl StructOptInternal for SnapshotInfoTool","synthetic":false,"types":[]},{"text":"impl StructOptInternal for Tool","synthetic":false,"types":[]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

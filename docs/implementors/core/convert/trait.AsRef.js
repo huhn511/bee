@@ -1,3 +1,0 @@
-(function() {var implementors = {};
-implementors["bee_message"] = [{"text":"impl AsRef&lt;[u8]&gt; for MessageId","synthetic":false,"types":[]},{"text":"impl AsRef&lt;[u8]&gt; for HashedIndex","synthetic":false,"types":[]},{"text":"impl AsRef&lt;[u8]&gt; for Ed25519Address","synthetic":false,"types":[]},{"text":"impl AsRef&lt;[u8]&gt; for TransactionId","synthetic":false,"types":[]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

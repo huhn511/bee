@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["UTXO_INPUT_KIND",""]],"struct":[["UTXOInput",""]]});

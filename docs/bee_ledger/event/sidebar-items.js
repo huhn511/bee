@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MilestoneConfirmed",""],["NewConsumedOutput",""],["NewCreatedOutput",""]]});

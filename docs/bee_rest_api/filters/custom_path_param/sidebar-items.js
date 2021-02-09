@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["bech32_address",""],["ed25519_address",""],["message_id",""],["milestone_index",""],["output_id",""],["peer_id",""]]});

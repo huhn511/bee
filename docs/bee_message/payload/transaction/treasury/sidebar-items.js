@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["TREASURY_TRANSACTION_PAYLOAD_KIND",""]],"struct":[["TreasuryTransactionPayload",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["RECEIPT_PAYLOAD_KIND",""]],"struct":[["ReceiptPayload",""]]});

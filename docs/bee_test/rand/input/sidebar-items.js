@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["rand_input",""],["rand_utxo_input",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["DEFAULT_DELTA_PATH",""],["DEFAULT_DEPTH",""],["DEFAULT_DOWNLOAD_URLS",""],["DEFAULT_FULL_PATH",""],["DEFAULT_INTERVAL_SYNCED",""],["DEFAULT_INTERVAL_UNSYNCED",""]],"struct":[["SnapshotConfig",""],["SnapshotConfigBuilder",""]]});

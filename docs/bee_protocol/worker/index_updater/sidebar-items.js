@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["process",""],["update_future_cone",""],["update_past_cone",""]],"struct":[["IndexUpdaterWorker",""],["IndexUpdaterWorkerEvent",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["BELOW_MAX_DEPTH",""],["MAX_AGE_SECONDS_AFTER_FIRST_CHILD",""],["MAX_LIMIT_NON_LAZY",""],["MAX_NUM_CHILDREN",""],["OTRSI_DELTA",""],["YTRSI_DELTA",""]],"enum":[["Score",""]],"struct":[["TipMetadata",""],["UrtsTipPool",""]]});

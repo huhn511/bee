@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MilestoneIndex","A wrapper around a `u32` that represents a milestone index."]]});

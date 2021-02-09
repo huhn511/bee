@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["milestone_utxo_changes",""]],"struct":[["MilestoneUtxoChanges","Response of GET /api/v1/milestone/{milestone_index}/utxo-changes"]]});

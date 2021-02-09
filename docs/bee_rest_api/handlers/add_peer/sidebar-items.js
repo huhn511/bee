@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["add_peer",""]],"struct":[["AddPeerResponse","Response of POST /api/v1/peers"]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["outputs_ed25519",""]],"struct":[["OutputsForAddressResponse","Response of GET /api/v1/addresses/{address}/outputs"]]});

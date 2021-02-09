@@ -1,9 +1,0 @@
-(function() {var implementors = {};
-implementors["bee_ledger"] = [{"text":"impl Error for Error","synthetic":false,"types":[]},{"text":"impl Error for Error","synthetic":false,"types":[]}];
-implementors["bee_message"] = [{"text":"impl Error for Error","synthetic":false,"types":[]},{"text":"impl Error for Error","synthetic":false,"types":[]}];
-implementors["bee_network"] = [{"text":"impl Error for Error","synthetic":false,"types":[]},{"text":"impl Error for Error","synthetic":false,"types":[]},{"text":"impl Error for Error","synthetic":false,"types":[]}];
-implementors["bee_node"] = [{"text":"impl Error for Error","synthetic":false,"types":[]},{"text":"impl Error for Error","synthetic":false,"types":[]},{"text":"impl Error for Error","synthetic":false,"types":[]},{"text":"impl&lt;P:&nbsp;Plugin&gt; Error for PluginError&lt;P&gt;","synthetic":false,"types":[]},{"text":"impl Error for Ed25519Error","synthetic":false,"types":[]},{"text":"impl Error for RocksdbError","synthetic":false,"types":[]},{"text":"impl Error for SnapshotInfoError","synthetic":false,"types":[]},{"text":"impl Error for ToolError","synthetic":false,"types":[]}];
-implementors["bee_pow"] = [{"text":"impl Error for Error","synthetic":false,"types":[]}];
-implementors["bee_snapshot"] = [{"text":"impl Error for Error","synthetic":false,"types":[]}];
-implementors["bee_storage_rocksdb"] = [{"text":"impl Error for Error","synthetic":false,"types":[]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

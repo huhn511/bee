@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["submit_message_raw",""]]});

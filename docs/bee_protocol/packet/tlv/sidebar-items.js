@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Error",""]],"fn":[["tlv_from_bytes","Deserializes a TLV header and a byte buffer into a packet."],["tlv_into_bytes","Serializes a TLV header and a packet into a byte buffer."]]});

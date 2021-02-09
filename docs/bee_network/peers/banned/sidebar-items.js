@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["DEFAULT_BANNED_ADDR_CAPACITY",""],["DEFAULT_BANNED_PEER_CAPACITY",""]],"struct":[["BannedList",""]],"type":[["BannedAddrList",""],["BannedPeerList",""]]});

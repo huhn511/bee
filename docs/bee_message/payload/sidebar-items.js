@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Payload",""]],"mod":[["indexation",""],["milestone",""],["receipt",""],["transaction",""]]});

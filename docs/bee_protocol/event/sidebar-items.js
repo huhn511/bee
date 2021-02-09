@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["LatestMilestoneChanged",""],["LatestSolidMilestoneChanged",""],["MessageProcessed",""],["MessageSolidified",""],["MpsMetricsUpdated",""],["NewVertex",""],["TipAdded",""],["TipRemoved",""]]});
